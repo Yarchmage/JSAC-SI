@@ -1,0 +1,34 @@
+[JSAC-6G-ITS-PP] 5G/6G Precise Positioning on Cooperative Intelligent Transportation Systems (C-ITS) and Connected Automated Vehicles (CAV)
+
+Precise positioning is a key factor and enabler technology for many use cases on intelligent transportation systems (ITS) and connected and automated vehicles (CAVs). 3GPP with Release 16 introduces native support for positioning with the new-radio (NR) carrier that will be applicable for millimeter Wave (mmW) frequencies. The mmW technology can also be exploited to complement global navigation satellite system (GNSS), for example, to jointly measure vehicle position with higher accuracy than employing a single technology. 5G delivers new enhanced positioning accuracy to meters, to decimeters and to centimeters. The required accuracy depends on the specific use case. Relevant scenarios include indoor positioning (e.g., within undercover car parks), vehicular urban-driving, drone and robot positioning, mobile broadband user positioning (e.g., pedestrian and vehicle positioning). Indoor positioning in ITS is a challenging use case for positioning technologies, but also one of the most relevant, such as for emergency call systems. Users and devices across general indoor environments (or other GNSS denied areas), such as offices, shops, big buildings, and smart factories, can be positioned with accuracy from meters to centimeters. It is an important focus of 3GPP in 5G, which will continue with sixth generation (6G) networks. Cooperative intelligent transportation systems (C-ITS), vehicular to everything (V2X) communications, are becoming an enabler technology for autonomous driving to improve road safety. High-accuracy positioning must be achieved to address the most demanding autonomous driving functions. Protection of vulnerable road users (VRUs) can be drastically improved if highly precise positioning, up to centimeters, will be available to the road operators. Drone and robot positioning is a growing field and will become more relevant in ITS, thanks to the interest of automated logistics systems. It is expected that the fusion of GNSS and 5G/6G can provide a positioning accuracy at centimeter level. The 5G NR provides significant additions for positioning accuracy estimation with respect to previous versions, specifically for time-and-angle-based positioning methods.
+The goal of this Special Issue is to solicit high quality scholarly contributions on new cellular techniques that can provide high precision positioning for upcoming use cases and applications, leveraging on new positioning methods and enhancements of existing ones. The focus of the investigation is on GNSS challenging areas (e.g., urban canyon, underground parking) and seamless transition between indoor areas (e.g., driving in undercover parking areas or in tunnels). Hence, we solicit high-quality research works from both academia and industry addressing the issue of precise positioning in C-ITS and CAV and proposing innovative ideas related to this challenging topic. Theoretical, experimental studies and use cases on positioning systems in C-ITS are welcome. We solicit papers covering topics of interests that include, but are not limited to, the following topics:
+•	Innovative positioning methods based on cellular systems
+•	MIMO techniques for improving positioning in cellular and wireless communication
+•	Machine, federated, transfer and deep learning-based models for precise position
+•	Energy optimization of cellular and ranging positioning systems
+•	Edge and cloud solutions for improved positioning services
+•	Precise positioning for Unmanned Aerial Vehicles (UAVs)
+•	Real-time correction, computation and distribution techniques and architectures for improved positioning accuracy and faster time-to-first-fix
+•	Internet of Things energy efficient and precise positioning solutions
+•	Cybersecurity, protection against jamming and spoofing multi-technologies solutions
+•	High accuracy positioning correction services
+•	Indoor positioning systems (e.g., GNSS signal generation) for CAVs
+•	Hybrid technologies for improved positioning
+•	Quantum technologies to improve synchronization and positioning accuracy
+•	Visual positioning and extended reality (XR) applications in ITS
+•	High performance positioning solutions for healthiness, sport and pet tracking in ITS
+•	Error correction and analysis for raw data to improve performance in CAVs
+•	Ubiquitous positioning in challenging areas
+•	Ultra-wideband (UWB) and Wi-Fi technologies for positioning
+•	Precise positioning privacy issues, potential vulnerabilities and solutions
+•	Privacy preserving on precise positioning systems and C-ITS group positioning systems.
+
+Submission Guidelines:
+Prospective authors should submit their manuscripts following the IEEE JSAC guidelines (https://www.comsoc.org/publications/journals/ieee-journal-selected-areas-communication/submit-manuscript).
+Papers should be submitted through EDAS according to the scheduled deadlines.
+Submit a new paper: https://www.edas.info/N29849
+JSAC CFP: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/5g6g-precise-positioning-cooperative-intelligent-transportation
+Important Dates:
+Manuscript Submission Deadline: 1 December 2022 First Notification: 1 March 2023 Acceptance Notification: 1 May 2023 Final Manuscript Due: 15 May 2023 Planned Publication: Fourth Quarter 2023
+Guest Editors:
+Danilo Amendola, Joint Research Centre - European Commission, Belgium Nicola Cordeschi, University of Bari, Italy and University of Surrey, UK Fan Bai, General Motors Global R&D, USA Yusheng Ji, National Institute of Informatics (NII), Japan Shen Yan, Huawei Technologies, China Weihua Zhuang, University of Waterloo, Canada
